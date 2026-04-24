@@ -1,13 +1,13 @@
-# Privacy Policy for Excerpt
+# Privacy Policy for Latent
 
 **Effective Date: 20 April 2026**
 
-John James Marshall ("I", "me", or "my") built the Excerpt app as a Commercial application. This service is provided by me and is intended for use "as is".
+John James Marshall ("I", "me", or "my") built the Latent app as a Commercial application. This service is provided by me and is intended for use "as is".
 
 ## Data Collection and Processing
-Excerpt is designed with strict privacy and data security in mind. 
+Latent is designed with strict privacy and data security in mind. 
 * **100% Local Processing:** All PDF processing, NLP, parsing, and analytics happen strictly locally on your Apple device (Mac, iPad, or iPhone).
-* **No Server Uploads:** Excerpt does not upload your documents, emails, or personal data to any external servers, cloud services, or third-party APIs.
+* **No Server Uploads:** Latent does not upload your documents, emails, or personal data to any external servers, cloud services, or third-party APIs.
 * **No Analytics or Tracking:** The app does not integrate any third-party analytics or tracking frameworks. I do not track your usage behavior.
 * 
 
